@@ -1,0 +1,10 @@
+# Local Packet Tracer auto-saves and temporary files
+*.pka
+*.pkz
+*.tmp
+~$*
+
+# Large exported media archives are intentionally not tracked
+*.mp4
+*.zip
+
