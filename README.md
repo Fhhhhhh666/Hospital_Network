@@ -5,10 +5,10 @@
 本仓库包含医院园区网络的 Cisco Packet Tracer 仿真文件、设备配置命令、课程设计报告和原始配置指令文档。项目面向三级甲等医院网络升级改造场景，采用医疗内网与办公外网物理隔离的双平面架构，并通过核心层、汇聚层、接入层、防火墙、VPN、无线网络等模块完成整体设计与验证。
 
 内网拓扑结构：
-![内网拓扑]()
+![内网拓扑](https://github.com/Fhhhhhh666/Hospital_Network/blob/main/%E5%86%85%E7%BD%91%E6%8B%93%E6%89%91.png)
 
 外网拓扑结构：
-![外网拓扑]()
+![外网拓扑](https://github.com/Fhhhhhh666/Hospital_Network/blob/main/%E5%A4%96%E7%BD%91%E6%8B%93%E6%89%91.png)
 
 ## Cisco 版本
 
